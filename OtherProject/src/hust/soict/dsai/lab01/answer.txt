@@ -1,0 +1,4 @@
+Báo cáo thực hành lab1
+Câu1:
+-Khi user chọn "Cancer" thì dialog hiện user đã lựa chọn No.
+-Viết 1 chương trình con nữa,thay đổi lựa chọn thành "I do" hoặc "I dont";nếu ý thầy là người dùng được lựa chọn "Yes" " No" hoặc "I do""I dont" thì sẽ dùng switch case 2 lựa chọn để người dùng thao tác. 
